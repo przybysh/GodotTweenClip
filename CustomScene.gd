@@ -2,7 +2,7 @@ extends Control
 
 export var preloaded_texture = preload("res://icon.png");
 export var number_of_sprites = 1;
-const sprites := [];
+var sprites := [];
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
